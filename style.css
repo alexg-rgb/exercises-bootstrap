@@ -1,0 +1,56 @@
+.numberOne {
+    text-align: center;
+    border-style: solid;
+    border-radius: 4px;
+    background-color: rgb(218, 104, 218);
+}
+
+.coucou {
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.ca {
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.va {
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.exercise {
+    background-color: rgb(218, 104, 218);
+    text-align: center;
+    border-style: solid;
+    border-radius: 4px;
+}
+.nouvel {
+    border-style: solid;
+    border-radius: 4px;
+    height: 30px;
+    background-color: rgb(218, 104, 218);
+    text-align: center;
+}
+.numberThree {
+    border-style: solid;
+    border-radius: 4px;
+    background-color: rgb(218, 104, 218);
+    text-align: center;
+}
+.bloc {
+    border-style: solid;
+    border-radius: 4px;
+}
+.coloneA {
+    background-color: rgb(218, 104, 218);
+}
+
+.coloneB {
+    background-color: rgb(218, 104, 218);
+}
+
+.numberFive {
+    font-size: 14px;
+}
